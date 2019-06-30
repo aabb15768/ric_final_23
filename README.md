@@ -1,5 +1,4 @@
 <h1 style="text-align:center">Ric's Webprogramming<br>Final Project</h1>
-===
 
 ## 1. 題目名稱:
 * NTU降雨預測
@@ -8,7 +7,12 @@
 * 利用機器學習與線性學習對台大做降雨量預測
 
 ## 3. Deployed and Github連結:
+* deploy link:
 * https://fathomless-beyond-18550.herokuapp.com/
+* github link:
+* https://github.com/aabb15768/ric_final_23
+* demo video link:
+* https://www.youtube.com/watch?v=_YKVpuflmIc&feature=youtu.be
 
 ## 4. 使用/操作方式:
 ```
